@@ -1,10 +1,6 @@
 <h1 align="center">
-  Hello Stack
-</h1>
-
-<h4 align="center">
   🚀 Hello Stack
-</h4>
+</h1>
 
 <p align="center">
   <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
