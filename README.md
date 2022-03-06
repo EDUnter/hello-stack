@@ -27,7 +27,7 @@ The Hello Stack consists in a simple bookmark system where users can bookmark it
 
 ## :memo: License
 
-This project is under the MIT license. Open [LICENSE](LICENSE.md) archive to get more info
+This project is under the MIT license. Open [LICENSE](LICENSE) archive to get more info
 
 ---
 
