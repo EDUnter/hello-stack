@@ -19,7 +19,7 @@ This project was developed with the following technologies:
 - [TypeScript](https://www.typescriptlang.org/)
 - [Prisma](https://www.prisma.io/)
 - [GraphQl](https://graphql.org/)
-- [PostgresSQL](https://www.postgresql.org/)
+- [PostgreSQL](https://www.postgresql.org/)
 
 ## 💻 Project
 
